@@ -1,0 +1,517 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing:border-box;
+
+}
+.header1mainbox{
+    position: relative;
+    display: flex;
+align-items: center;
+height: 40px;
+width: 100%;
+background-color:#f6f6f6;;
+margin-top: -2px;
+}
+.dottedmenuicon{
+    width: 21px;
+    height: 21px;
+    margin-left: 26px;
+}
+.header1mainbox h5{
+    top: 12px;
+    left: 65px;
+    position: absolute;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 12px;
+}
+.header1mainbox ul h5{
+    list-style: none;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    left: 1041px;
+}
+.header1mainbox li{
+    margin-right: 26px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 12px;
+}
+.headersearchicon{
+
+}
+.fa-magnifying-glass{
+    position: absolute;
+    left: 1414px;
+    top: 16px;
+    transform: scale(1.5);
+}
+.fa-bag-shopping{
+    position: absolute;
+    left: 1479px;
+    top: 14px;
+    transform: scale(1.5);
+}
+.secondheader{
+position: relative;
+    width:100%;
+    height: 120px;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.secondheader ul{
+    margin-top: 60px;
+    display:flex;
+    list-style-type: none;
+}
+.secondheader li{
+    margin-right: 39px;  
+}
+
+.secondheader h3{
+position: absolute;
+font-size: 37px;
+top: 25px;
+font-family:felix;
+}
+
+.thirdheader{
+    width: 100%;
+    height: 40px;
+    background-color:RGB(24, 24, 24);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.roundimagemainbox{
+display:flex;
+flex-direction: row;
+   
+    width: 100%;
+    height: 240px;
+    
+}
+.whatsnewbox{
+    width: 410px;
+    height: 100%;
+    background-color:white;
+    color: black;
+    font-family:Copperplate 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 31px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.genbox{
+    width: 200px;
+    height: 200px;
+    margin-right: 19px;
+    margin-top: 21px;
+    border-radius: 100px;
+    display: flex;
+    flex-direction: row;
+}
+.firstimagebixparentbox{
+    width: 83%;
+    margin-left: 127px;
+    height: 500px;
+    position: relative;
+    background-color:white;
+    display: flex;;
+}
+.content1{
+    top: 209px;
+    left: 930px;
+    position: absolute;
+    font-size: 25px;
+    text-align-last: center;
+    
+}
+ button{
+    width: 120px;
+    height: 35px;
+    margin-right: -9px;
+    border-color: black;
+    background-color: transparent
+}
+.button1{
+ 
+    margin-top: 347px;
+    margin-left: 39px;
+}
+.secondimagebixparentbox{
+    width: 83%;
+    margin-top: 35px;
+    margin-left: 127px;
+    height: 500px;
+    position: relative;
+    background-color:white;
+    display: flex;
+    align-items: center;
+
+}
+.secondimagebixparentbox img{
+    height: 100%;
+    position: absolute;
+    left: 373px;    
+}
+.logobody2im img{
+    position: absolute;
+
+    top: 120px;
+    height: 190px;
+    width: 258px;
+    left: 53px;
+}
+.button2 button{
+     width: 120px;
+    height: 35px;
+    margin-right: 22px;
+    border-color: black;
+    background-color: transparent
+}
+.button2{
+    margin-top:200px;
+    margin-left: 25px;
+}
+
+.content2{
+      text-align-last: center;
+    position: absolute;
+    top: 244px;
+    left: 87px;
+    font-size: 25px
+}
+.mainbox{
+    width: 83%;
+    margin-top: 35px;
+    margin-left: 127px;
+    height: 500px;
+    position: relative;
+    display: flex;
+  
+
+}
+.i3magebixparentbox .content1{
+    position: absolute;
+    left: 970px;
+    top: 244px;
+    color: white;
+}
+.i3magebixparentbox{
+    background-color: black;
+}
+.i3magebixparentbox button{
+    color: white;
+    border-color: white;
+}
+.img3rdlogo img{
+    position: absolute;
+    height: 373px;
+    width: 169px;
+    left: 978px;
+}
+
+.i4magebixparentbox img{
+    height: 100%;
+    position: absolute;
+    left: 373px;    
+}
+.logo4 img{
+    position: absolute;
+    top: 120px;
+    height: 190px;
+    width: 258px;
+    left: 53px;
+}
+.i4magebixparentbox .button2{
+    margin-top: 349px;
+    margin-left: 117px;
+}
+.i4magebixparentbox .content2{
+    margin-left: 100px;
+    margin-left: -28px;
+}
+.logo5 img{
+    position: absolute;
+    position: absolute;
+    height: 373px;
+    width: 169px;
+    left: 978px;
+}
+.i5magebixparentbox .content1{
+    margin-left: 42px;
+    text-align-last: center;
+    margin-top: 43px;;
+   
+
+}
+.i5magebixparentbox button{
+    margin-top: 130px;
+    margin-left: 89px;
+}
+.i6magebixparentbox img {
+    position: absolute;
+    left: 373px; 
+}
+.i6magebixparentbox .logo4 img{
+
+    margin-left: -310px;
+}
+.i6magebixparentbox .content2{
+    position: absolute;
+    left: 63px;
+}
+
+.i6magebixparentbox button{
+    margin-top: 130px;
+    margin-left: 60px;
+    width: 200px;
+}
+.i7magebixparentbox .content1{
+    margin-left: 42px;
+    text-align-last: center;
+    margin-top: 20px;
+}
+.i7magebixparentbox button{
+    margin-top: 120px;
+    margin-left: 45px;
+    width: 200px;
+}
+.i8magebixparentbox img{
+    height: 100%;
+    position: absolute;
+    left: 373px; 
+
+}
+.i8magebixparentbox .content2{
+   
+    margin-left: 10px;
+}
+.i8magebixparentbox button{
+    margin-top: 130px;
+    margin-left: 60px;
+    width: 200px;
+}
+ .logo8 img{
+    margin-top: -172px;
+    margin-left: -275px;
+    width: 173px;
+}
+.i9magebixparentbox .content1 {
+    margin-left: 28px;
+    text-align-last: center;
+    margin-top: 10px;
+}
+.i9magebixparentbox button{
+    margin-top: 130px;
+    margin-left: 48px;
+    width: 200px;
+
+}
+.logo9 img{
+    width: 200px;
+    margin-left: -12px;
+    
+}
+.i10magebixparentbox img{
+    height: 100%;
+    position: absolute;
+    left: 373px; 
+
+}
+.i10magebixparentbox button{
+    margin-top: 130px;
+    margin-left: 60px;
+    width: 200px;
+}
+
+.logo10 img{
+    margin-top: -172px;
+    margin-left: -275px;
+    width: 173px;
+}
+.but11 button
+{ position: absolute;
+    top: 300px;
+    width: 200px;
+    left: 970px;
+}
+.i11magebixparentbox .content1{
+    position: absolute;
+    top: 223px;
+    left: 969px;
+}
+.footer1
+{
+    display: flex;
+    height: 560px;
+    width: 100%;
+    background-color: white;
+    margin-top: 35px;
+}
+.footerlisbox{
+    width: 225px;
+    height: 100%;
+    margin-right: 30px;
+    background-color: white;
+    margin-left: 20px;
+}
+.footerlisbox ul{
+    list-style: none;
+    margin-left: 20px;
+    line-height: 40px;
+    margin-top: 30px;
+    font-size: 15px;
+    }
+.inputbox{
+    width: 465px;
+    height: 100%;
+    background-color:RGB(246, 246, 246);
+    margin-left: -28px;
+    position: relative;
+    
+}
+.botomiconbox{
+   
+        width: 100%;
+        height: 100px;
+        background-color: RGB(246, 246, 246);
+        position: relative;
+        border-bottom: 0.2px solid;
+        border-color: thistle;
+        display: flex;
+}
+.fa-globe{
+    position: absolute;
+    width: 25px;
+    left: 16px;
+    top: 41px;
+
+}
+.fa-location-dot{
+    position: absolute;
+    width: 25px;
+    left: 341px;
+    top: 41px;
+}
+.store{
+        position: absolute;
+    width: 83px;
+    left: 363px;
+    top: 41px;
+    font-size: 14px;
+}
+.shop{
+    position: absolute;
+    width: 85px;
+    left: 39px;
+    top: 41px;
+    font-size: 14px;
+}
+.emailinput{
+    width: 300px;
+    height: 35px;
+    background-color: white;
+    
+}
+.emailinput:placeholder-shown{
+    color: black;
+    margin-left: 18px;
+
+}
+.inputt
+{margin-top: 10px;
+    margin-left: 18px;
+}
+.gend{
+    margin-left: 18px;
+    margin-top: 17px;
+}
+.gend p{
+margin-top: 40px;
+margin-right: 18px;
+}
+.gend button{
+    margin-top: 30px;
+    color: white;
+    background-color: black;
+}
+.footerbox{
+    width: 100%;
+    height: 180px;
+    background-color: aquamarine;
+    display:flex;
+}
+
+.ftbx1{
+    width:33.33%;
+    height: 180px;
+    background-color:black;
+position: relative;
+  border-right: solid;
+  justify-content: center;
+  text-align: center;
+}
+.ftbx1 i {
+    
+        margin-inline: 23px;
+        font-size: 30px;
+        color: white;
+        scroll-margin-block-start: 122px;
+        margin-top: 110px;
+    
+    
+}
+.ftbx1 b{
+    position: absolute;
+    top: 58px;
+    left: 142px;
+    color: white;
+}
+.bx3 b {
+    position: absolute;
+    top: 58px;
+    left: 226px;
+
+
+}
+.ftbx1 img{
+    width: 104px;
+    margin-top: 81px;
+}
+.axicon{
+    margin-top: -5px;
+    width: 124px;
+    height: 60px;
+    background-color:black;
+    margin: auto;
+    margin-top: 84px;
+    background-image: url(https://www.armani.com/ytos/releases/ARMANIGROUP/2022/css/icons/ax_light.1d6e1b61.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.ftbx1 p{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    
+}
+.ftlngbox{
+    width: 100%;
+    height: 60px;
+   text-align-last: center;
+ 
+   background-color: black;
+}
+.ftlngbox p{
+    font-size: 12px;
+    padding-top: 25px;
+}
